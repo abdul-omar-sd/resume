@@ -1,11 +1,10 @@
 
-# Your Name ![Profile Picture](./profile.jpg) 
+# Abdulkhaliq Omar ![Profile Picture](./profile.jpg) 
 
-**Location:** City, Country 
-**Email:** your.email@example.com 
-**Phone:** +1-234-567-8901 
+**Location:** Houston, TX 
+**Email:** abdul.omarm9@gmail.com
+**Phone:** 858-232-5910
 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourusername/) 
-**GitHub:** [yourusername](https://github.com/yourusername) 
 
 ## Summary 
 Detail-oriented software engineer with 5+ years of experience in full-stack development. Skilled in developing, testing, and deploying web applications with a focus on user experience and scalability. 
