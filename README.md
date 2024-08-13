@@ -16,4 +16,13 @@ Detail-oriented software engineer with 5+ years of experience in full-stack deve
 - **DevOps:** Docker, Jenkins, Kubernetes -
 - **Cloud:** AWS, Azure
 
-- ## Experience ### Software Engineer | Company Name | Start Date - End Date - Developed and maintained scalable web applications using React and Node.js. - Led the migration of legacy systems to modern frameworks, improving performance by 30%. - Collaborated with cross-functional teams to design and implement new features. ### Junior Software Engineer | Company Name | Start Date - End Date - Assisted in the development of front-end components using Angular. - Wrote unit tests and integrated them into CI/CD pipelines. - Participated in code reviews and collaborated on optimizing database queries. ## Education **Bachelor of Science in Computer Science** University Name | Graduation Year ## Projects ### Project Name - Developed a web-based application that provides real-time data analysis using Python and Django. - Implemented RESTful APIs and integrated them with front-end frameworks. - Deployed the application on AWS, ensuring high availability and scalability. ## Certifications - Certified Kubernetes Administrator (CKA) - AWS Certified Solutions Architect
+## Experience
+- ### Software Engineer | Company Name | Start Date - End Date
+  - Developed and maintained scalable web applications using React and Node.js. - Led the migration of legacy systems to modern frameworks, improving performance by 30%.
+  - - Collaborated with cross-functional teams to design and implement new features.
+- ### Junior Software Engineer | Company Name | Start Date - End Date
+- - Assisted in the development of front-end components using Angular. - Wrote unit tests and integrated them into CI/CD pipelines. - Participated in code reviews and collaborated on optimizing database queries.
+
+## Education 
+**Bachelor of Science in Computer Science** University Name | Graduation Year 
+
