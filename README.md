@@ -1,5 +1,5 @@
 
-# Abdulkhaliq Omar ![Profile Picture](./profile.jpg) 
+# Abdulkhaliq Omar
 
 **Location:** Houston, TX 
 **Email:** abdul.omarm9@gmail.com
