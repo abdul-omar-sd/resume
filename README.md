@@ -1,10 +1,7 @@
 
 # Abdulkhaliq Omar
 
-**Location:** Houston, TX 
-**Email:** abdul.omarm9@gmail.com
-**Phone:** 858-232-5910
-**LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourusername/) 
+abdul.omarm9@gmail.com | 858-232-5910 | Houston, TX 
 
 ## Summary 
 Detail-oriented software engineer with 5+ years of experience in full-stack development. Skilled in developing, testing, and deploying web applications with a focus on user experience and scalability. 
