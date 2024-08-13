@@ -4,7 +4,8 @@
 abdul.omarm9@gmail.com | 858-232-5910 | Houston, TX 
 
 ## Summary 
-Detail-oriented software engineer with 5+ years of experience in full-stack development. Skilled in developing, testing, and deploying web applications with a focus on user experience and scalability. 
+A software engineer with over 3 years of professional experience. I have significant experience in designing, developing and deploying sofware solutions in cloud-native environments.
+I am proficient in programming languages such as Python and Typescript (amongst others) as well as modern frameworks such as Django and React. My experience includes building and deploying robust scalable applications using microservices architecture using Docker, Kubernetes and leveraging infrastructure as a code tools like terraform.
 
 ## Experience
 - ### Software Engineer II | Company Name | Start Date - End Date
